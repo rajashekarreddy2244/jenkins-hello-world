@@ -6,7 +6,10 @@ public class JodaDateTimeUtils {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+		// Added comment for branch2
 		// Added comment for branch1
+
 		JodaDateTimeUtils jdt = new JodaDateTimeUtils();
 System.out.println("Hello World!\n"+jdt.jGetYear());
 	}
