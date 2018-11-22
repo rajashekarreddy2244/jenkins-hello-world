@@ -31,7 +31,7 @@ class Test2 {
 
 	@Test
 	void dateTest() {
-		Assert.assertEquals("21-11-2018", jdt.jGetDateOfMonth() + "-" + jdt.jGetMonthOfYear() + "-" + jdt.jGetYear());
+		Assert.assertEquals("22-11-2018", jdt.jGetDateOfMonth() + "-" + jdt.jGetMonthOfYear() + "-" + jdt.jGetYear());
 
 	}
 

@@ -42,6 +42,6 @@ public class Test1 {
 
 	@Test
 	public void dayTest() {
-		Assert.assertEquals(21, jdt.jGetDateOfMonth());
+		Assert.assertEquals(22, jdt.jGetDateOfMonth());
 	}
 }
